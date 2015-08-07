@@ -41,9 +41,9 @@ Step 2. Edit Method, Use [ViewCompat](http://developer.android.com/reference/and
   Set item animator in add.
 ***
 
-#Voice
+#Video
 
-[![Voice](https://lh3.googleusercontent.com/kaAu9WJ9stE3X9ta0HaUozhLK3QJ57ipXo8_ipKuIjg=w852-h512-no)](https://youtu.be/3Y9oEKV9h4w)
+[![Video](https://lh3.googleusercontent.com/kaAu9WJ9stE3X9ta0HaUozhLK3QJ57ipXo8_ipKuIjg=w852-h512-no)](https://youtu.be/3Y9oEKV9h4w)
 
 #Reference Sources
 
